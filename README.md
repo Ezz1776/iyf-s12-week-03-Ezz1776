@@ -45,6 +45,9 @@ Contact
 
 - GitHub: "Ezz1776" (https://github.com/Ezz1776)
 
+- Patner
+- rieleessie-e
+
 License
 
 This project is open source and available under the MIT License.
